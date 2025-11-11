@@ -23,7 +23,7 @@ It is a static website that allows users to **browse recipes**, but it does **no
 - CSS  
 - Bootstrap 5 (for layout and design)  
 
-## Note About Images
+## Disclaimer
 Some images used in this project were sourced online for educational purposes only.  
 They are included solely for demonstration and learning, and are **not intended for commercial use**.  
 All rights for these images belong to their respective owners.
