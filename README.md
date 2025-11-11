@@ -1,27 +1,36 @@
 # Preview
-<img width="1305" height="765" alt="image" src="https://github.com/user-attachments/assets/e0fb4e2b-75b0-441f-8ea6-999e84e355aa" />
+<img width="1304" height="718" alt="image" src="https://github.com/user-attachments/assets/864369a5-d1ae-4f7f-9a94-18cfd241dd77" />
 
-# Mangan-Tako
-This is a basic website project called **Mangan Tako**, developed as part of school work.  
-It is a static website that allows users to **browse recipes**, but it does **not have a database or working backend** 
+# Mangan Tako PHP Website Project
+
+This is the **updated PHP version** of the Mangan Tako website, developed as a school project.  
+The website allows users to **browse recipes** and includes **PHP `include` statements** to keep the code organized and reduce repetition.
+
+> Note: This project is **still static** in terms of functionality — the “Add” and “Delete” buttons are placeholders and **do not interact with a database**.
 
 ## Project Features
 - Browse through different recipe pages  
 - Navigation between pages  
-- Responsive layout and structured design using **Bootstrap**  
-- Placeholder buttons for adding/deleting recipes (non-functional)  
+- Reusable components using **PHP include statements** (header, footer, etc.)  
+- Responsive layout using **Bootstrap 5**  
+- Placeholder buttons for adding/deleting recipes (non-functional)
 
 ## How to Run Locally
-1. Download this repository.  
-2. Open the project folder.  
-3. Open `index.html` in any web browser.  
+Since this project uses PHP, you need a local server environment like **XAMPP**:
 
-> No server setup or database is required — the website runs fully in your browser.
+1. Download this repository.  
+2. Move the project folder to your XAMPP `htdocs` directory.  
+3. Start **Apache** in the XAMPP Control Panel.  
+4. Open your browser and navigate to http://localhost/your_project_folder/
+5. The website should now run locally with the PHP includes working.
+
+> No database is required — all content is static.
 
 ## Technologies Used
+- PHP  
 - HTML  
 - CSS  
-- Bootstrap 5 (for layout and design)  
+- Bootstrap 5
 
 ## Note About Images
 Some images used in this project were sourced online for educational purposes only.  
