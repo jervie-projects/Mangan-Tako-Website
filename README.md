@@ -4,6 +4,7 @@
 <img width="1283" height="721" alt="about us" src="https://github.com/user-attachments/assets/140d1657-8e4b-4774-8649-dde9743c32c0" />
 <img width="1283" height="721" alt="recipes" src="https://github.com/user-attachments/assets/ee4eb17e-582b-4a72-a5f8-93cc42cc8488" />
 </div>
+
 # Mangan Tako PHP Website Project
 
 This is the **updated PHP version** of the Mangan Tako website, developed as a school project.  
